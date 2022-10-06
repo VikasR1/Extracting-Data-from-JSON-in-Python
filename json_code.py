@@ -1,3 +1,5 @@
+
+# #  create a json file
 import json
  
 data = '{"name":"Vikas", "Designation": "Scrum Master", "Skills":"Python, Project Management, Scrum"}'
