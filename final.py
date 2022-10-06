@@ -1,4 +1,4 @@
-# scraping the data from locally stored json file
+# scraping the data from locally stored json file ('temp_js.json' file)
 import pandas as pd
 import json 
 
