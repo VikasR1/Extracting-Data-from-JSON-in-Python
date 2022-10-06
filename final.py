@@ -1,3 +1,4 @@
+# scraping the data from locally stored json file
 import pandas as pd
 import json 
 
